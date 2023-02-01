@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container {
+  width: 25%;
+}
+
+#form {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#display {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#dice {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#coupon {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
